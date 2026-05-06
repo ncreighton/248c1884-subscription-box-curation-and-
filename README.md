@@ -33,6 +33,7 @@ A WordPress plugin for subscription box businesses managing curated product sele
 Initial release.
 
 
+
 ---
 
 ## Free vs Pro
@@ -53,5 +54,9 @@ Initial release.
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://mythicalgamer2.gumroad.com/l/gvxwgu)**
+**[Get Pro Version](https://buy.stripe.com/00wdR9h1B0bW2hi1ZicZa1A)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wdR9h1B0bW2hi1ZicZa1A)
+- [Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/gvxwgu)
+- [Buy on Whop](https://whop.com/subscription-box-curation-and-member-management-wordpress-plugin)
 
